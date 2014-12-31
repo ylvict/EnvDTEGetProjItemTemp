@@ -1,0 +1,6 @@
+c:\users\v-hoverz\documents\visual studio 14\Projects\EnvDTEGetProjItemTemp\bin\Debug\EnvDTEGetProjItemTemp.exe.config
+c:\users\v-hoverz\documents\visual studio 14\Projects\EnvDTEGetProjItemTemp\bin\Debug\EnvDTEGetProjItemTemp.exe
+c:\users\v-hoverz\documents\visual studio 14\Projects\EnvDTEGetProjItemTemp\bin\Debug\EnvDTEGetProjItemTemp.pdb
+c:\users\v-hoverz\documents\visual studio 14\Projects\EnvDTEGetProjItemTemp\obj\Debug\EnvDTEGetProjItemTemp.csprojResolveAssemblyReference.cache
+c:\users\v-hoverz\documents\visual studio 14\Projects\EnvDTEGetProjItemTemp\obj\Debug\EnvDTEGetProjItemTemp.exe
+c:\users\v-hoverz\documents\visual studio 14\Projects\EnvDTEGetProjItemTemp\obj\Debug\EnvDTEGetProjItemTemp.pdb
